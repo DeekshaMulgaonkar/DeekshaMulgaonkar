@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DeekshaMulgaonkar
-- 👀 I’m interested in learning new technoligies
+- 👀 I’m interested in learning new Technologies
 - 🌱 I’m currently learning React and Node.js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me deekshamulgaonkar@gmail.com
 
 <!---
